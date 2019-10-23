@@ -4,3 +4,6 @@ from .models import *
 admin.site.register(Category)
 admin.site.register(Country)
 admin.site.register(Product)
+admin.site.register(Client)
+admin.site.register(Gender)
+admin.site.register(Shopping)
